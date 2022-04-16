@@ -1,4 +1,4 @@
-<h4 style : color : 'red'> Natural Language Processing <h4> 
+<h4 style ='color : red'> Natural Language Processing <h4> 
 This Repository contains every concepts of Natural Language Processing.
 <img src="assets/nlp1.jpeg" width="700" height = "400"/>
 
